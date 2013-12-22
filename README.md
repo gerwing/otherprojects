@@ -10,3 +10,14 @@ This is the Web Application I built during my Master's course. It allows anyone 
 
 LINK TO MOMO : http://www.glorieux.co.uk:8900
 
+
+Saggezza Desk Booking
+---------------------
+
+This is a web application written using Node.js, Express, Mongoose, MongoDB, Bootstrap and Knockout. The application allows administrators to add desks to multiple rooms. After this employees are able to book the desk they prefer by logging in to the application and selecting the desk they prefer, during the period they prefer. 
+
+I wrote this application as part of an Internship at Saggezza in London, for a working demonstration of the Desk Booking application navigate to:
+
+http://deskbook-gaving.rhcloud.com
+
+and login using your google account. Move your mouse to the left of the page to open up the menu.
